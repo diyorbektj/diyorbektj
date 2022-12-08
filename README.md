@@ -1,4 +1,4 @@
-### Hi there 👋
+👋 I'm **Diyorbek Toshtemirov** from Tajikistan/Kanibadam
 
 <!--
 **diyorbektj/diyorbektj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
