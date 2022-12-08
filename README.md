@@ -1,5 +1,7 @@
 👋 I'm **Diyorbek Toshtemirov** from Tajikistan/Kanibadam
 
+**📫 Contact on** [![Toshtemirov Diyorbek](https://img.shields.io/badge/sobirjonovs-30302f?style=flat&logo=telegram)](https://t.me/diyorbek_tj)
+
 <!--
 **diyorbektj/diyorbektj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
