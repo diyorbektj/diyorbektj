@@ -1,5 +1,7 @@
 👋 I'm **Diyorbek Toshtemirov** from Tajikistan/Kanibadam
 
+🌐 **Personal website** [www.diyorbek.biz](https://diyorbek.biz)
+
 **📫 Contact on** [![Toshtemirov Diyorbek](https://img.shields.io/badge/DIYORBEK-30302f?style=flat&logo=telegram)](https://t.me/diyorbek_tj)
 
 <!--
