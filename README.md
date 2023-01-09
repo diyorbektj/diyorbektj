@@ -4,20 +4,34 @@
 
 **📫 Contact on** [![Toshtemirov Diyorbek](https://img.shields.io/badge/DIYORBEK-30302f?style=flat&logo=telegram)](https://t.me/diyorbek_tj)
 
-<!--
-**diyorbektj/diyorbektj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**📚 Soft skills**
+ - [x] Leader
+ - [x] Problem-solver
+ - [x] Introvert
+ - [x] Flexible/adaptive
+ - [x] Talented
 
-Here are some ideas to get you started:
+**📚 Hard skills**
+ - [x] PHP
+ - [x] Python
+ - [x] Telegram bot using PHP/Python
+ - [x] Laravel
+ - [x] MySQL/PostgreSQL
+ - [x] Docker
+ - [x] Git / Github / Gitlab
+ - [x] Linux
+ - [x] HTML / CSS 
+ - [x] JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Interests**
+ - [x] Golang
+ - [x] React
+ - [x] Vuejs
+ - [x] Algorithm
+ - [x] Math / logical problems
+ - [x] everything makes me better
+
+
 ![Dynamic name](https://github-readme-stats.vercel.app/api?username=diyorbektj&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diyorbektj&layout=compact&theme=radical)
