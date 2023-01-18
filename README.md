@@ -36,4 +36,4 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diyorbektj&layout=compact&theme=radical)
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/diyorbektj/)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/diyorbektj/) [![wakatime](https://wakatime.com/badge/user/7e368193-75f2-4513-8146-4bfc56848fa4.svg)](https://wakatime.com/@7e368193-75f2-4513-8146-4bfc56848fa4)
